@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-Hi there! 👋 I'm Mateeb Haider, a passionate MERN Stack Developer.<br>I specialize in building dynamic, responsive web applications and backend systems using HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and SQL. Along with MERN, I have experience with C/C++ and enjoy solving challenging coding problems and exploring new technologies
+
+Hi there! 👋 I'm Mateeb Haider a passionate Full-Stack Developer and Software Engineer with a strong foundation in both front-end and back-end development. As a dedicated problem solver, I'm committed to delivering exceptional software solutions that exceed expectations. My coding style emphasizes clarity, efficiency, and maintainability.
 
 
 ## 🌐 Socials:
