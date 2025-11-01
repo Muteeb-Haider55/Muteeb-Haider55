@@ -2,92 +2,91 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=muteeb-haider55&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/muteeb-haider55)
 
-
-Hi — I'm Mateeb (Muteeb) Haider, a Full-Stack Developer focused on building clear, efficient, and maintainable web applications.
-
-- Location: (add your location)
-- Pronouns: he/him
-- Contact: add-your-email@example.com
+<p align="center">
+  <!-- header illustration: replace or keep -->
+  <img src="https://raw.githubusercontent.com/Muteeb-Haider55/Muteeb-Haider55/main/assets/header-illustration.png" alt="header" style="max-width:720px;width:100%;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,0.12)"/>
+</p>
 
 ---
 
-## 🌐 Socials
+## About
+I’m Mateeb (Muteeb) Haider — a professional Full‑Stack Developer and Software Engineer who builds production-ready, maintainable web applications with emphasis on performance, accessibility, and developer experience.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mateeb_Haider)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateeb_haider)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Muteeb_Haider)  
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28326271)
+- Location: Lahore, Pakistan  
+- Roles: Full‑Stack Developer, Software Engineer  
+- Contact: muteebhdr@gmail.com
 
 ---
 
-## 💻 Tech Stack
+## Professional Summary
+I combine engineering fundamentals with product thinking to deliver reliable, maintainable systems that scale. My work focuses on building modular, testable codebases, shipping quickly with high quality, and improving developer experience across the stack.
 
-<p align="left">
-  <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+- Modular, documented, and testable code
+- Performance and accessibility first (a11y)
+- Secure APIs and pragmatic data modeling
+- CI/CD, typed contracts (TypeScript) and tooling for faster delivery
+
+---
+
+## Highlights (selected)
+- Architected a multivendor e‑commerce platform with seller dashboards and Stripe checkout.  
+- Built a reusable authentication & mailer microservice used across multiple projects.  
+- Implemented automated image processing to reduce bandwidth and speed up page loads.
+
+---
+
+## Top Languages (most used)
+<p align="left" style="background:#000;padding:12px;border-radius:8px;color:#fff;display:flex;gap:12px;flex-wrap:wrap;">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p align="left">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2367A80A.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 ---
 
-## 🔭 About Me
-
-I enjoy building end-to-end applications and working on features that impact real users. My work emphasizes:
-
-- Clean, maintainable code
-- Thoughtful UX and performance
-- Practical automation and deployment
-- Reliable backend APIs and data modeling
-
-
-## ✅ Core Skills
-
-- Frontend: React, Next.js, Tailwind CSS, HTML/CSS, Lottie, Redux
-- Backend: Node.js, Express, REST APIs, Stripe, JWT authentication
-- Databases: MongoDB (Mongoose), MySQL
-- DevOps: Vercel, Netlify, Docker
-- Testing & Tooling: ESLint, Prettier
+## Professional Skills (organized by usage)
+Primary (daily): React, Next.js, TypeScript, Node.js, Express, MongoDB, JavaScript  
+Frontend: HTML5, CSS3, Tailwind CSS, Material UI, Lottie  
+Backend: REST APIs, JWT auth, Stripe integration, Cloudinary  
+Databases: MongoDB (Mongoose), MySQL, Oracle (mention)  
+DevOps & Deploy: Vercel, Netlify, Docker, CI/CD pipelines  
+Other: Problem Solving, LeetCode, Performance Optimization, Testing (unit/integration)
 
 ---
 
-## 🔧 Projects
+## Featured Projects
+(Replace the placeholders with actual repo links — I will auto-fill these from your GitHub repos if you ask me to.)
+- Multivendor E‑commerce — production marketplace with seller dashboards, product management, Cloudinary uploads, and Stripe. — [repo link]
+- Auth & Mailer Microservice — reusable auth flows, JWT, password reset, transactional mailer. — [repo link]
+- Image Processing Pipeline — automated resizing, compression, CDN-friendly delivery. — [repo link]
 
-Below are a few highlights — replace links with your repo URLs if available.
-
-- Multivendor E‑commerce — full-stack marketplace with seller dashboard, Cloudinary uploads, Stripe payments. (link)
-- Auth & Mailer Microservice — JWT auth flows, mailer and password reset utilities. (link)
-- Image Processing Pipeline — resize/compress/watermark images before upload. (link)
-
-If you want, I can auto-generate this list from your GitHub repos.
+I can fetch your repositories and auto-populate this section with links and descriptions if you confirm.
 
 ---
 
-## 📊 GitHub Stats
+## How I Work
+1. Clarify scope and break problems into small, testable tasks.  
+2. Build accessible, responsive UI components and robust APIs.  
+3. Ship with tests and CI; monitor production for performance and errors.  
+4. Iterate with data and deliver measurable improvements.
 
-![Muteeb Haider GitHub Stats](https://github-readme-stats.vercel.app/api?username=muteeb-haider55&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muteeb-haider55&layout=compact&hide_border=true)
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muteeb-haider55&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="github stats" style="max-width:640px;width:100%;border-radius:12px;" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteeb-haider55&layout=compact&hide_border=true" alt="top langs" />
+</p>
 
 ---
 
-## 📫 Contact
-
-- Email: add-your-email@example.com
-- Medium: https://medium.com/@Muteeb_Haider
-- LinkedIn: https://linkedin.com/in/muteeb-haider
-
----
+## Contact & Availability
+- Email: muteebhdr@gmail.com  
+- Location: Lahore, Pakistan  
+- Open to: Collaboration, freelance contracts, mentoring
 
 _Last updated: 2025-11-01_
