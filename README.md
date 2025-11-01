@@ -1,92 +1,113 @@
-# Mateeb Haider (Muteeb) 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=muteeb-haider55&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/muteeb-haider55)
+# 👋 Hi there, I'm Mateeb Haider
 
-<p align="center">
-  <!-- header illustration: replace or keep -->
-  <img src="https://raw.githubusercontent.com/Muteeb-Haider55/Muteeb-Haider55/main/assets/header-illustration.png" alt="header" style="max-width:720px;width:100%;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,0.12)"/>
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MERN+Engineer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
----
+</div>
 
-## About
-I’m Mateeb (Muteeb) Haider — a professional Full‑Stack Developer and Software Engineer who builds production-ready, maintainable web applications with emphasis on performance, accessibility, and developer experience.
+## 🚀 About Me
 
-- Location: Lahore, Pakistan  
-- Roles: Full‑Stack Developer, Software Engineer  
-- Contact: muteebhdr@gmail.com
-
----
-
-## Professional Summary
-I combine engineering fundamentals with product thinking to deliver reliable, maintainable systems that scale. My work focuses on building modular, testable codebases, shipping quickly with high quality, and improving developer experience across the stack.
-
-- Modular, documented, and testable code
-- Performance and accessibility first (a11y)
-- Secure APIs and pragmatic data modeling
-- CI/CD, typed contracts (TypeScript) and tooling for faster delivery
+- 🌱 Currently mastering **MERN Stack, DevOps, DSA & Cloud Technologies**
+- 🔭 Working on **Full-Stack Applications & DevOps Automation**
+- 📝 Sharing knowledge on [**Medium**](https://medium.com/)
+- 💬 Ask me about **React.js, Node.js, Docker, DevOps, C++**
+- 📫 Reach me at **muteebhdr@gmail.com**
 
 ---
 
-## Highlights (selected)
-- Architected a multivendor e‑commerce platform with seller dashboards and Stripe checkout.  
-- Built a reusable authentication & mailer microservice used across multiple projects.  
-- Implemented automated image processing to reduce bandwidth and speed up page loads.
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateeb-haider/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sajidhafsa23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Muteeb-Haider-/)
+
+</div>
 
 ---
 
-## Top Languages (most used)
-<p align="left" style="background:#000;padding:12px;border-radius:8px;color:#fff;display:flex;gap:12px;flex-wrap:wrap;">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2367A80A.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
+
+### Frontend Development
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+</div>
+
+### Backend Development
+<div align="center">
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</div>
+
+### Programming Languages
+<div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+### DevOps & Tools
+<div align="center">
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-## Professional Skills (organized by usage)
-Primary (daily): React, Next.js, TypeScript, Node.js, Express, MongoDB, JavaScript  
-Frontend: HTML5, CSS3, Tailwind CSS, Material UI, Lottie  
-Backend: REST APIs, JWT auth, Stripe integration, Cloudinary  
-Databases: MongoDB (Mongoose), MySQL, Oracle (mention)  
-DevOps & Deploy: Vercel, Netlify, Docker, CI/CD pipelines  
-Other: Problem Solving, LeetCode, Performance Optimization, Testing (unit/integration)
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muteeb-Haider55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muteeb-Haider55&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+
 
 ---
 
-## Featured Projects
-(Replace the placeholders with actual repo links — I will auto-fill these from your GitHub repos if you ask me to.)
-- Multivendor E‑commerce — production marketplace with seller dashboards, product management, Cloudinary uploads, and Stripe. — [repo link]
-- Auth & Mailer Microservice — reusable auth flows, JWT, password reset, transactional mailer. — [repo link]
-- Image Processing Pipeline — automated resizing, compression, CDN-friendly delivery. — [repo link]
+## 🏆 GitHub Trophies
 
-I can fetch your repositories and auto-populate this section with links and descriptions if you confirm.
+<div align="center">
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muteeb-Haider55&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## How I Work
-1. Clarify scope and break problems into small, testable tasks.  
-2. Build accessible, responsive UI components and robust APIs.  
-3. Ship with tests and CI; monitor production for performance and errors.  
-4. Iterate with data and deliver measurable improvements.
+</div>
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muteeb-haider55&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="github stats" style="max-width:640px;width:100%;border-radius:12px;" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteeb-haider55&layout=compact&hide_border=true" alt="top langs" />
-</p>
+## 🎯 Current Focus
 
+```javascript
+const mateeb = {
+    location: "Pakistan",
+    currentFocus: ["MERN Stack", "DevOps", "DSA"],
+    learning: ["Web-Dev", "Docker", "CI/CD"],
+    askMeAbout: ["Web Development", "DevOps", "Problem Solving"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 ---
-
-## Contact & Availability
-- Email: muteebhdr@gmail.com  
-- Location: Lahore, Pakistan  
-- Open to: Collaboration, freelance contracts, mentoring
-
-_Last updated: 2025-11-01_
